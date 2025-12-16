@@ -1,0 +1,8 @@
+baseURL = "https://WDGaster703.github.io/"
+languageCode = "zh-CN"
+title = "Gaster's blogs"
+theme = "hugo-air-main"
+
+ignoreFiles = [
+  'themes/hugo-air-main/content/.*'
+]

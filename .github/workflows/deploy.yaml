@@ -1,0 +1,30 @@
+name: Deploy Hugo site to Pages
+
+on:
+  push: # 当有代码推送到main分支时触发
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive # 确保拉取主题子模块
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # 使用扩展版，与你本地环境一致
+
+      - name: Build
+        run: hugo --minify # 构建并压缩文件
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public # 部署public目录下的文件
