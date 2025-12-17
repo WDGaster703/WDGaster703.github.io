@@ -23,21 +23,19 @@ defaultContentLanguage = "zh"  # 添加：设置默认语言为中文
 
 # 语言菜单配置（主题相关）
 [params]
-  # 显示语言切换器
-  showLanguageSelector = true
+  [params.author]
+    name = "WDGaster703"
+    siteUrl = "https://WDGaster703.github.io/"
   
-  # 作者信息
-  author = "WDGaster703"
-  
-  # 主题颜色（可选）
   mainColor = "#035c8c"
+  showLanguageSelector = true
 
 # 忽略文件
 ignoreFiles = [
   'themes/hugo-air-main/content/.*'
 ]
 
-# 菜单配置（重要！）
+# 菜单配置
 [menu]
   # 顶部导航菜单    
   [[menu.main]]

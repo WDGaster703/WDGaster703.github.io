@@ -1,5 +1,5 @@
 ---
-title:"学习笔记"
-type:"posts"
+title: "学习笔记"
+type: "posts"
 ---
 
