@@ -3,6 +3,63 @@ languageCode = "zh-CN"
 title = "Gaster's blogs"
 theme = "hugo-air-main"
 
+defaultContentLanguage = "zh"  # 添加：设置默认语言为中文
+
+# 多语言配置
+[languages]
+  [languages.zh]
+    languageCode = "zh-CN"
+    contentDir = "content/zh"
+    languageName = "中文"
+    weight = 1
+    title = "Gaster的个人小站"
+    
+  [languages.en]
+    languageCode = "en-US"
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 2
+    title = "Gaster's Blogs"
+
+# 语言菜单配置（主题相关）
+[params]
+  # 显示语言切换器
+  showLanguageSelector = true
+  
+  # 作者信息
+  author = "WDGaster703"
+  
+  # 主题颜色（可选）
+  mainColor = "#035c8c"
+
+# 忽略文件
 ignoreFiles = [
   'themes/hugo-air-main/content/.*'
 ]
+
+# 菜单配置（重要！）
+[menu]
+  # 顶部导航菜单    
+  [[menu.main]]
+    name = "学习"
+    pageRef = "/posts"
+    weight = 20
+    identifier = "posts"
+
+  [[menu.main]]
+    name = "生活"
+    pageRef = "/posts"
+    weight = 20
+    identifier = "posts"
+
+  [[menu.main]]
+    name = "娱乐"
+    pageRef = "/posts"
+    weight = 20
+    identifier = "posts"
+    
+  [[menu.main]]
+    name = "关于"
+    pageRef = "/about"
+    weight = 30
+    identifier = "about"
