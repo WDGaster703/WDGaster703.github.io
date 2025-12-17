@@ -1,6 +1,6 @@
 +++
 date = '2025-12-16T23:02:43+08:00'
-draft = false
+draft = true
 title = '2024年终总结'
 
 +++
