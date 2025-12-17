@@ -32,32 +32,34 @@ defaultContentLanguage = "zh"  # 添加：设置默认语言为中文
 
 # 忽略文件
 ignoreFiles = [
-  'themes/hugo-air-main/content/.*'
+  'themes/hugo-air-main/content/.*',
+  'themes/.*/content/.*'  # 忽略所有主题的内容
 ]
 
 # 菜单配置
 [menu]
   # 顶部导航菜单    
   [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
     name = "学习"
-    pageRef = "/posts"
+    url = "/学习/"
     weight = 20
-    identifier = "posts"
 
   [[menu.main]]
     name = "生活"
-    pageRef = "/posts"
-    weight = 20
-    identifier = "posts"
+    url = "/生活/"
+    weight = 30
 
   [[menu.main]]
     name = "娱乐"
-    pageRef = "/posts"
-    weight = 20
-    identifier = "posts"
+    url = "/娱乐/"
+    weight = 40
     
   [[menu.main]]
     name = "关于"
-    pageRef = "/about"
-    weight = 30
-    identifier = "about"
+    url = "/about/"
+    weight = 50

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gaster&#39;s blogs</title>
+    <title>Categories on Gaster的个人小站</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Gaster&#39;s blogs</description>
+    <description>Recent content in Categories on Gaster的个人小站</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生活</title>
+      <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
