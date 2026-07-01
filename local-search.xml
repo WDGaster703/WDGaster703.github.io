@@ -46,6 +46,48 @@
   
   
   <entry>
+    <title>电路理论笔记</title>
+    <link href="/2025/12/10/circuit_theory/"/>
+    <url>/2025/12/10/circuit_theory/</url>
+    
+    <content type="html"><![CDATA[<ul><li><a href="/files/circuit/electric_circuits.pdf" target="_blank" rel="noopener noreferrer">电路原理</a><ul><li>参考教材：孙立山、陈希有等编著，电路理论基础（第四版），高等教育出版社。</li><li>主要内容：<ul><li>电路元件与电路基本定律</li><li>线性电路稳态分析：线性直流电路稳态分析，正弦交流电路稳态分析，非正弦周期交流电路稳态分析，三相电路初步，频率响应</li><li>线性电路暂态分析：时域分析与复频域分析</li><li>二端口网络</li><li>非线性电路分析</li><li>分布参数电路分析：均匀传输线</li></ul></li></ul></li><li><a href="/files/circuit/analog_electronics.pdf" target="_blank" rel="noopener noreferrer">模拟电子技术基础</a><ul><li>参考教材：清华大学童诗白、华成英主编，模拟电子技术基础（第六版），高等教育出版社。</li><li>主要内容：<ul><li>信息半导体器件</li><li>分立元件放大电路：单管放大电路，多级放大电路</li><li>反馈分析</li><li>集成元件电路：信号运算电路，波形发生变换电路</li><li>直流电源</li></ul></li></ul></li><li><a href="/files/circuit/digital_electronics.pdf" target="_blank" rel="noopener noreferrer">数字电子技术基础</a><ul><li>参考教材：清华大学阎石，王红主编，数字电子技术基础（第六版），高等教育出版社。</li><li>主要内容：<ul><li>数学基础：逻辑代数</li><li>电路基础：门电路，脉冲波形的产生和整形电路</li><li>逻辑电路设计与分析：组合逻辑电路，时序逻辑电路</li><li>AD &#x2F; DA 转换</li></ul></li></ul></li><li><a href="/files/circuit/power_electronics.pdf" target="_blank" rel="noopener noreferrer">电力电子技术</a><ul><li>参考教材：西安交通大学刘进军、王兆安主编，电力电子技术（第六版），机械工业出版社。</li><li>主要内容：<ul><li>电力电子器件</li><li>电力电子变换拓扑：整流电路，逆变电路，DC-DC 变流电路，AC-AC 变流电路</li><li>电力电子变换器控制：PWM 控制技术</li></ul></li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习笔记</category>
+      
+      <category>电路理论</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>控制理论笔记</title>
+    <link href="/2025/11/20/control_theory/"/>
+    <url>/2025/11/20/control_theory/</url>
+    
+    <content type="html"><![CDATA[<ul><li><a href="/files/control/signal_analysis.pdf" target="_blank" rel="noopener noreferrer">信号分析与处理</a><ul><li>参考教材：赵光宙主编，信号分析与处理（第四版），机械工业出版社。</li><li>主要内容：<ul><li>连续信号分析：CFS，CTFT</li><li>离散信号分析：DFS，DTFT，DFT，FFT</li><li>信号处理基础：系统的性质与分析</li><li>滤波器设计初步：模拟滤波器，数字滤波器</li></ul></li></ul></li><li><a href="/files/control/classical_control.pdf" target="_blank" rel="noopener noreferrer">经典控制理论</a><ul><li>参考教材：裴润，宋申民主编，自动控制原理（上册），哈尔滨工业大学出版社。</li><li>主要内容：基于传递函数模型的控制理论<ul><li>系统建模：传递函数模型，方框图与信号流图</li><li>系统分析：时域分析，稳定性分析，根轨迹分析，频域分析</li><li>系统综合：频域校正</li><li>非线性系统分析</li></ul></li></ul></li><li><a href="/files/control/modern_control.pdf" target="_blank" rel="noopener noreferrer">现代控制理论</a><ul><li>参考教材：裴润，宋申民主编，自动控制原理（下册），哈尔滨工业大学出版社。</li><li>主要内容：基于状态空间模型的控制理论<ul><li>系统建模：状态空间模型</li><li>系统分析：时域分析，能观能控性分析，Lyapunov 稳定性分析</li><li>系统综合：状态空间综合</li></ul></li></ul></li><li><a href="/files/control/optimal_control.pdf" target="_blank" rel="noopener noreferrer">最优控制理论</a><ul><li>参考教材：裴润，宋申民主编，自动控制原理（下册），哈尔滨工业大学出版社。</li><li>主要内容：<ul><li>变分法</li><li>Pontryagin 极小值原理</li><li>动态规划</li></ul></li></ul></li><li><a href="/files/control/random_control.pdf" target="_blank" rel="noopener noreferrer">随机控制理论</a><ul><li>参考教材：蔡尚峰编著，随机控制理论，上海交通大学出版社。</li><li>主要内容：<ul><li>数学基础：随机过程</li><li>系统建模：随机系统数学模型</li><li>系统分析：时域分析</li><li>系统综合：状态估计问题-卡尔曼滤波</li></ul></li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习笔记</category>
+      
+      <category>控制理论</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>营求仕途抑或独善其身</title>
     <link href="/2024/12/13/Yuan-Bai_differences/"/>
     <url>/2024/12/13/Yuan-Bai_differences/</url>
