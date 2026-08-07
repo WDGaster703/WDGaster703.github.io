@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>电机理论笔记</title>
+    <link href="/2026/08/07/motor_theory/"/>
+    <url>/2026/08/07/motor_theory/</url>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="/files/motor/electromagnetic_field.pdf" target="_blank" rel="noopener noreferrer">电磁场</a></p><ul><li>参考教材：西安交通大学冯慈璋、马西奎著，工程电磁场导论，高等教育出版社。</li><li>主要内容：<ul><li>数学基础：矢量分析</li><li>静电场，恒定电场，静磁场，时变电磁场，准稳态电磁场</li></ul></li></ul></li><li><p><a href="/files/motor/electrical_machinery.pdf" target="_blank" rel="noopener noreferrer">电机学</a></p><ul><li>参考教材：汤蕴璆编著，电机学（第五版），机械工业出版社。</li><li>主要内容：<ul><li>变压器</li><li>直流电机</li><li>交流电机：感应电机，同步电机</li></ul></li></ul></li><li><p><a href="/files/motor/electric_drive_control.pdf" target="_blank" rel="noopener noreferrer">电力拖动自动控制系统</a></p><ul><li><p>参考教材：阮毅，杨影，陈伯时编著，电力拖动自动控制系统-运动控制系统（第5版），机械工业出版社。</p></li><li><p>主要内容：</p><ul><li>直流调速系统：转速开环系统，转速闭环系统，转速、电流双闭环系统，调速系统的数字控制</li><li>基于稳态模型的交流调速系统：异步电动机调速系统，绕线转子转子变频调速系统，同步电动机变频调速系统</li><li>伺服系统</li></ul></li></ul></li><li><p><a href="/files/motor/modern_motor_control.pdf" target="_blank" rel="noopener noreferrer">现代电机控制技术</a></p><ul><li>参考教材：王成元, 夏加宽, 孙宜标编著，现代电机控制技术（第二版），机械工业出版社。</li><li>主要内容：<ul><li>矢量控制</li><li>直接转矩控制</li><li>无传感器控制</li></ul></li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习笔记</category>
+      
+      <category>电机理论</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>空洞骑士系列随想</title>
     <link href="/2026/06/06/Hollow_Knight/"/>
     <url>/2026/06/06/Hollow_Knight/</url>
